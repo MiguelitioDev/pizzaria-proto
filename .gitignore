@@ -26,3 +26,6 @@ dist-ssr
 # Local env (WhatsApp number etc.)
 .env
 .vercel
+
+.vercel
+.env*
